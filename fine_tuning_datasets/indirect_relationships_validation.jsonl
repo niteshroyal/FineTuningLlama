@@ -1,0 +1,3 @@
+{"Question": "Draw a connection between A and B. If necessary, use intermediary concepts to help clarify the relationship.", "A": "Mustang", "B": "car", "Response": "Relationship: A is a type of B."}
+{"Question": "Draw a connection between A and B. If necessary, use intermediary concepts to help clarify the relationship.", "A": "cloud", "B": "river", "Response": "C: rain\nD: runoff\nRelationship: A causes C. C contributes to B through D."}
+{"Question": "Draw a connection between A and B. If necessary, use intermediary concepts to help clarify the relationship.", "A": "director", "B": "audience", "Response": "C: the movie\nRelationship: A creates C. B watches C."}
